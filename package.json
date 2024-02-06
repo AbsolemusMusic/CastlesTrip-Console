@@ -1,0 +1,20 @@
+{
+    "name": "com.castles.trip.console",
+    "displayName": "Unity Console",
+    "description": "Castles Trip - Unity Console",
+    "version": "0.1.0",
+    "type": "tool",
+    "unity": "2020.3",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:AbsolemusMusic/CastlesTrip-Console.git"
+    },
+    "author": "Castles Trip <castles.trip@gmail.com> (https://github.com/AbsolemusMusic)",
+    "keywords": [
+        "errors",
+        "bugs",
+        "console",
+        "publications"
+    ]
+}
